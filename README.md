@@ -176,15 +176,3 @@ The app will draw a bounding box around the detected face, mark the eyes with ye
 
 ---
 
-## Author
-
-**Siddhi Jain**  
-London Metropolitan University — CT6057NI Computer Vision  
----
-
-## Acknowledgements
-
-- [PyTorch](https://pytorch.org/)
-- [MobileNetV2](https://arxiv.org/abs/1801.04381) — Sandler et al., 2018
-- [OpenCV](https://opencv.org/)
-- [Streamlit](https://streamlit.io/)
